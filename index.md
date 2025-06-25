@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-### About Me 
+## About Me 
 
 I’m a rising senior at Michigan State University, currently interning at GreenStone Farm Credit Services. I’ve cut report times by over 80% by building Power BI dashboards with SQL and automating reports using Quarto. Some of my hobbies include going to the gym, watching/playing sports, building legos, and spending time with family and friends.
 
