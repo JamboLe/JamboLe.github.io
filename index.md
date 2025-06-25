@@ -19,4 +19,4 @@ I’m a rising **senior** at Michigan State University, currently interning at *
 ---
 
 ```markdown
-![Dashboard Preview](/assets/images/dashboard-screenshot.png)
+![Dashboard Preview](/assets/images/greenstonelogo.png)
