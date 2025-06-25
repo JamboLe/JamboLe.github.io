@@ -5,9 +5,9 @@
 layout: single
 author_profile: true
 ---
-About Me
+### About Me
 
-I’m a rising **senior** at Michigan State University, currently interning at **GreenStone Farm Credit Services** where I’ve been focused on making financial reporting faster and more efficient. By building Power BI dashboards powered by custom SQL queries and using **Quarto** scripts to automate report generation from raw files, I’ve helped cut report times from 1–1.5 hours to under **15 minutes**  a reduction of over **80%**. It's been rewarding to streamline these processes and help the team save time on reports that were once entirely manual.
+I’m a rising senior at Michigan State University, currently interning at GreenStone Farm Credit Services. I’ve cut report times by over 80% by building Power BI dashboards with SQL and automating reports using Quarto. Some of my hobbies include going to the gym, watching/playing sports, building legos, and spending time with family and friends.
 
 ---
 
@@ -18,5 +18,5 @@ I’m a rising **senior** at Michigan State University, currently interning at *
 
 ---
 
-```markdown
+
 ![Dashboard Preview](/assets/images/greenstonelogo.png)
