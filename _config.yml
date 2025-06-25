@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Jamie Le"
   avatar : "/assets/images/profilepic.jpeg"
-  bio    : "21 years old, from Grand Rapids, Michigan, attending MSU,"
+  bio    : "21 years old, from Grand Rapids, Michigan, lifelong spartan!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
