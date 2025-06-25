@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Jamie Le"
   avatar : "/assets/images/profilepic.jpeg"
-  bio    : " 21 years old, always wanting to improve, regardless of where I'm at now"
+  bio    : " 21 years old, always wanting to improve regardless of where I'm at now"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
