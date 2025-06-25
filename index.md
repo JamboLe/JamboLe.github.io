@@ -7,13 +7,13 @@ author_profile: true
 ---
 
 
-I’m a rising senior at Michigan State University, currently interning at GreenStone Farm Credit Services. I’ve cut report times by over 80% by building Power BI dashboards with SQL and automating reports using Quarto. Some of my hobbies include going to the gym, watching/playing sports, building legos, and spending time with family and friends.
+I will be a **senior** at Michigan State University, currently interning at GreenStone Farm Credit Services. I’ve cut report times by over **80%** by building Power BI dashboards with SQL and automating reports using Quarto. Some of my hobbies include going to the gym, watching/playing sports, building legos, and spending time with family and friends.
 
 ---
 
 ### Current Projects
 
-- **Databricks Automation**: Creating templates in Databricks that allow for flexible customization and cloud-based table updates  
+- **Databricks/Report Automation**: Using SQL, Power BI, and R to automate report generation and create flexible, cloud-based templates.
 -  **Sports Win/Loss Prediction Model** *(work in progress)*: Building a model that predicts sports outcomes based on historical trends and team stats
 
 ---
