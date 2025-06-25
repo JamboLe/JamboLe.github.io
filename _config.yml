@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Jamie Le"
-  avatar : "/assets/images/profilepic.jpg"
+  avatar : "/assets/images/profilepic.jpeg"
   bio    : "Computational Data Science student at MSU, currently interning with GreenStone Farm Credit Services. Enjoy going to the gym, watching sports, building legos."
   links:
     - label: "Website"
